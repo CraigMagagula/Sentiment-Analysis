@@ -11,7 +11,7 @@ This project is a professional, interactive sentiment analysis dashboard built w
 - Professional UI with gradient background
 
 ## Deployment
-This app is deployed on [Streamlit Cloud](https://share.streamlit.io/your-username/your-repo/main/ap.py). Replace `your-username/your-repo` with your actual GitHub repo.
+This app is deployed on [Streamlit Cloud](https://share.streamlit.io/your-username/your-repo/main/ap.py). [Website](https://sentiment-analysis-week.streamlit.app/).
 
 To run locally:
 ```bash
